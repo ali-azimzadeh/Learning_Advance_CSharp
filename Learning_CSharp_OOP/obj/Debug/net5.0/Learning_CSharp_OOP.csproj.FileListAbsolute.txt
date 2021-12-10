@@ -1,0 +1,16 @@
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\Learning_Adavance_C_Sharp\Learning_CSharp_OOP\bin\Debug\net5.0\Learning_CSharp_OOP.exe
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\Learning_Adavance_C_Sharp\Learning_CSharp_OOP\bin\Debug\net5.0\Learning_CSharp_OOP.deps.json
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\Learning_Adavance_C_Sharp\Learning_CSharp_OOP\bin\Debug\net5.0\Learning_CSharp_OOP.runtimeconfig.json
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\Learning_Adavance_C_Sharp\Learning_CSharp_OOP\bin\Debug\net5.0\Learning_CSharp_OOP.runtimeconfig.dev.json
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\Learning_Adavance_C_Sharp\Learning_CSharp_OOP\bin\Debug\net5.0\Learning_CSharp_OOP.dll
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\Learning_Adavance_C_Sharp\Learning_CSharp_OOP\bin\Debug\net5.0\ref\Learning_CSharp_OOP.dll
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\Learning_Adavance_C_Sharp\Learning_CSharp_OOP\bin\Debug\net5.0\Learning_CSharp_OOP.pdb
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\Learning_Adavance_C_Sharp\Learning_CSharp_OOP\obj\Debug\net5.0\Learning_CSharp_OOP.csproj.AssemblyReference.cache
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\Learning_Adavance_C_Sharp\Learning_CSharp_OOP\obj\Debug\net5.0\Learning_CSharp_OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\Learning_Adavance_C_Sharp\Learning_CSharp_OOP\obj\Debug\net5.0\Learning_CSharp_OOP.AssemblyInfoInputs.cache
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\Learning_Adavance_C_Sharp\Learning_CSharp_OOP\obj\Debug\net5.0\Learning_CSharp_OOP.AssemblyInfo.cs
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\Learning_Adavance_C_Sharp\Learning_CSharp_OOP\obj\Debug\net5.0\Learning_CSharp_OOP.csproj.CoreCompileInputs.cache
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\Learning_Adavance_C_Sharp\Learning_CSharp_OOP\obj\Debug\net5.0\Learning_CSharp_OOP.dll
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\Learning_Adavance_C_Sharp\Learning_CSharp_OOP\obj\Debug\net5.0\ref\Learning_CSharp_OOP.dll
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\Learning_Adavance_C_Sharp\Learning_CSharp_OOP\obj\Debug\net5.0\Learning_CSharp_OOP.pdb
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\Learning_Adavance_C_Sharp\Learning_CSharp_OOP\obj\Debug\net5.0\Learning_CSharp_OOP.genruntimeconfig.cache
